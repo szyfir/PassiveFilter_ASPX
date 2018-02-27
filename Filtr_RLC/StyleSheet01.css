@@ -1,0 +1,206 @@
+﻿body 
+{
+    background-color:white;
+    max-width: 1200px;
+    margin:0 auto;
+    text-align:center;
+}
+
+.Naglowek
+{
+    max-width:1200px; 
+    margin-bottom:-4px;
+}
+.Active
+{
+    width:385px;
+    padding:5px;
+    text-decoration:none;
+    font-size:20px;
+    color:#033153; 
+    background-color:white;
+    font-family:'Century Gothic';
+    display:inline-block;
+    border:1px solid #033153;    
+}
+
+.Inactive
+{
+    border:1px solid #033153;
+    width:385px;
+    padding:5px;
+    text-decoration:none;
+    font-size:20px;
+    color:white; 
+    background-color:#033153;
+    font-family:'Century Gothic';
+    display:inline-block;
+}
+.Inactive:hover
+{
+    background-color:white;
+    color:#033153;
+}
+.Panel2
+{   
+    margin-top:20px;
+    border-top: double 10px #033153;
+    border-bottom:double 10px #033153;
+    text-align:justify;
+    font-size:20px;
+    height: 100%; 
+}
+h4
+{
+    font-size:17px;
+    margin-bottom:10px;
+    text-align:right;
+}
+h2
+{
+    text-align:center;
+    font-style:italic;
+    text-decoration:underline;
+}
+li
+{
+    font-size:20px;
+}
+.Logo
+{
+  margin-top:10px;
+  float:left;
+}
+h5
+{
+    float:right;
+    color:#033153;
+}
+.Panel4
+{
+    margin-top:20px;
+    border-top: double 10px #033153;
+    border-bottom:double 10px #033153;
+    text-align:justify;
+    font-size:20px;
+    height: 100%; 
+    display: flex;
+    
+}
+#lewo
+{
+    float:left;
+    width:300px;
+    border-left:solid 3px #033153;
+    border-right:solid 3px #033153;
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align:center;
+}
+#nowy
+{
+    position:fixed;
+    width:200px;
+}
+#prawo
+{
+    float:right;
+    text-align:center;
+}
+#Param
+{
+    text-align:left;
+    margin-left:20px;
+    font-size:20px;
+}
+#Param2
+{
+    text-align:left;
+    margin-left:20px;
+    font-size:20px;
+}
+#pole_edycja
+{
+    margin-bottom:40px;
+}
+
+#Vsum1
+{
+    text-align:left;
+    margin-left:20px;
+    margin-top:20px;
+}
+.mlewo
+{
+    border:1px solid #033153;
+    margin-top:20px;
+    margin-bottom:20px;
+    width:280px;
+    padding:5px;
+    text-decoration:none;
+    font-size:20px;
+    color:white; 
+    background-color:#033153;
+    font-family:'Century Gothic';
+    display:inline-block;
+    height:45px;
+}
+.Panel5 {
+    margin-top: 20px;
+    border-top: double 10px #033153;
+    border-bottom: double 10px #033153;
+    font-size: 20px;
+    height: 100%;
+}
+#labC
+{
+    margin-left:23px;
+}
+#labAmp
+{
+    margin-left:100px;
+}
+#labfstart
+{
+    margin-left:10px;
+}
+#labF
+{
+    margin-left:20px;
+}
+#ogolne
+{
+    text-align:left;
+}
+#porownanie
+{
+    text-align:justify;
+}
+#wiadomosci
+{
+    text-align:justify;
+}
+#reset
+{
+    font-size:20px;
+    color:white; 
+    background-color:#033153;
+    font-family:'Century Gothic';
+    width:100px;
+
+}
+#PSPICE
+{
+    font-size:20px;
+    color:white; 
+    background-color:#033153;
+    font-family:'Century Gothic';
+    width:185px;
+
+}
+#pspice1
+{
+    font-size:20px;
+    text-align:left;
+    margin-left:20px;
+}
